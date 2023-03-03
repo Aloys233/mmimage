@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mm.damnit.ga</id>
+    <title>images</title>
+    <updated>2023-03-03T11:38:16.557Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mm.damnit.ga"/>
+    <link rel="self" href="https://mm.damnit.ga/atom.xml"/>
+    <subtitle>images</subtitle>
+    <logo>https://mm.damnit.ga/images/avatar.png</logo>
+    <icon>https://mm.damnit.ga/favicon.ico</icon>
+    <rights>All rights reserved 2023, images</rights>
+    <entry>
+        <title type="html"><![CDATA[2023.3.3]]></title>
+        <id>https://mm.damnit.ga/post/202333/</id>
+        <link href="https://mm.damnit.ga/post/202333/">
+        </link>
+        <updated>2023-03-03T11:36:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.2.24]]></title>
+        <id>https://mm.damnit.ga/post/2023224/</id>
+        <link href="https://mm.damnit.ga/post/2023224/">
+        </link>
+        <updated>2023-02-24T11:30:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.2.18]]></title>
+        <id>https://mm.damnit.ga/post/2023218/</id>
+        <link href="https://mm.damnit.ga/post/2023218/">
+        </link>
+        <updated>2023-02-18T11:46:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.2.11]]></title>
+        <id>https://mm.damnit.ga/post/2023211/</id>
+        <link href="https://mm.damnit.ga/post/2023211/">
+        </link>
+        <updated>2023-02-11T11:33:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.2.6]]></title>
+        <id>https://mm.damnit.ga/post/202326/</id>
+        <link href="https://mm.damnit.ga/post/202326/">
+        </link>
+        <updated>2023-02-06T12:06:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.1.24]]></title>
+        <id>https://mm.damnit.ga/post/2023124/</id>
+        <link href="https://mm.damnit.ga/post/2023124/">
+        </link>
+        <updated>2023-01-24T11:38:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.1.22]]></title>
+        <id>https://mm.damnit.ga/post/2023122/</id>
+        <link href="https://mm.damnit.ga/post/2023122/">
+        </link>
+        <updated>2023-01-22T11:29:03.000Z</updated>
+    </entry>
+</feed>
