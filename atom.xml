@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mm.aloys23.link</id>
+    <title>images</title>
+    <updated>2023-08-06T08:49:07.744Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mm.aloys23.link"/>
+    <link rel="self" href="https://mm.aloys23.link/atom.xml"/>
+    <subtitle>images</subtitle>
+    <logo>https://mm.aloys23.link/images/avatar.png</logo>
+    <icon>https://mm.aloys23.link/favicon.ico</icon>
+    <rights>All rights reserved 2023, images</rights>
+    <entry>
+        <title type="html"><![CDATA[2023.5.27]]></title>
+        <id>https://mm.aloys23.link/post/2023527/</id>
+        <link href="https://mm.aloys23.link/post/2023527/">
+        </link>
+        <updated>2023-05-27T11:55:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.5.13]]></title>
+        <id>https://mm.aloys23.link/post/2023513/</id>
+        <link href="https://mm.aloys23.link/post/2023513/">
+        </link>
+        <updated>2023-05-13T11:57:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.5.6]]></title>
+        <id>https://mm.aloys23.link/post/202356/</id>
+        <link href="https://mm.aloys23.link/post/202356/">
+        </link>
+        <updated>2023-05-06T11:37:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.4.29]]></title>
+        <id>https://mm.aloys23.link/post/2023429/</id>
+        <link href="https://mm.aloys23.link/post/2023429/">
+        </link>
+        <updated>2023-04-29T11:22:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.4.28]]></title>
+        <id>https://mm.aloys23.link/post/2023428/</id>
+        <link href="https://mm.aloys23.link/post/2023428/">
+        </link>
+        <updated>2023-04-28T11:46:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.4.15]]></title>
+        <id>https://mm.aloys23.link/post/2023415/</id>
+        <link href="https://mm.aloys23.link/post/2023415/">
+        </link>
+        <updated>2023-04-15T11:47:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.4.1]]></title>
+        <id>https://mm.aloys23.link/post/202341/</id>
+        <link href="https://mm.aloys23.link/post/202341/">
+        </link>
+        <updated>2023-04-01T11:53:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.3.3]]></title>
+        <id>https://mm.aloys23.link/post/202333/</id>
+        <link href="https://mm.aloys23.link/post/202333/">
+        </link>
+        <updated>2023-03-03T11:36:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.2.24]]></title>
+        <id>https://mm.aloys23.link/post/2023224/</id>
+        <link href="https://mm.aloys23.link/post/2023224/">
+        </link>
+        <updated>2023-02-24T11:30:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023.2.18]]></title>
+        <id>https://mm.aloys23.link/post/2023218/</id>
+        <link href="https://mm.aloys23.link/post/2023218/">
+        </link>
+        <updated>2023-02-18T11:46:02.000Z</updated>
+    </entry>
+</feed>
